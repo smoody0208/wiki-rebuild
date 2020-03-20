@@ -1,0 +1,31 @@
+.sidebar {
+  width: 150px;
+  height: 500px;
+  padding: 4px; 
+  font-size: 10pt;
+  float: left;
+  border: 2px solid lightgrey;
+}
+
+.container-md {
+  width: auto;
+  padding: 10px;
+  margin-right: 100px;
+}
+
+.row {
+  margin-left: auto;
+}
+
+.form-inline {
+  float: right;
+}
+
+img {
+  width: 100x;
+  height: 100px;
+}
+
+h2 {
+  font-size: 18pt;
+}
